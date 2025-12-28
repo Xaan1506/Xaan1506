@@ -1,5 +1,42 @@
-# 💫 About Me:
-i am currently working on multi agentic ai through ai vibecoding <br>i know python html css and little bit of Javascript <br>
+# 👋 Hi, I'm Xaan
+
+### 🚀 About Me
+
+I'm a Computer Science student and developer currently working on **Multi-Agentic AI systems**, exploring how multiple AI agents can collaborate, reason, and solve complex problems together. I actively build projects using **AI vibe-coding**, combining creativity, experimentation, and structured thinking to turn ideas into working systems.
+
+I am currently pursuing a **B.Tech in Computer Science**, specializing in **Machine Learning and Artificial Intelligence**, from **Newton School of Technology (ADYPU)**, Pune, Maharashtra.
+
+I enjoy learning by building, breaking, and improving real-world systems. My focus is on writing practical, scalable code and growing step-by-step like a working professional. I strongly believe the future belongs to **collaborative and intelligent AI systems**, and I’m excited to build in that direction.
+
+---
+
+### 🧠 Technical Skills
+
+- **Languages:** Python, HTML, CSS, JavaScript, Kotlin  
+- **AI & ML:** Multi-Agentic AI, Agent-based systems, AI workflows  
+- **Databases:** MySQL, MongoDB  
+- **Backend & Tools:** Firebase, Git, GitHub  
+- **Approach:** AI Vibe-Coding, Rapid Prototyping, Problem Solving
+
+---
+
+### 🛠️ What I’m Working On
+
+- Building **Multi-Agentic AI projects**
+- Experimenting with **AI-driven automation**
+- Improving system design and backend fundamentals
+- Learning industry-standard development practices
+
+---
+
+### 🎯 Goals
+
+- Master **Multi-Agent Systems & Applied AI**
+- Build impactful real-world projects
+- Grow as a professional software engineer
+- Contribute to open-source and collaborative AI systems
+
+---
 
 
 ## 🌐 Socials:
